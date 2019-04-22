@@ -532,10 +532,10 @@
               }
             },
             ".brand-name I": {
-              "color": "#e2bb00"
+              "color": "#000000"
             },
             ".brand-name SPAN": {
-              "color": "#000000"
+              "color": "#e2bb00"
             }
           },
           "_name": "menu2",
@@ -1302,10 +1302,10 @@
               }
             },
             ".brand-name I": {
-              "color": "#e2bb00"
+              "color": "#000000"
             },
             ".brand-name SPAN": {
-              "color": "#000000"
+              "color": "#e2bb00"
             }
           },
           "_name": "menu2",
