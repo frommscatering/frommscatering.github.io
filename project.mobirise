@@ -58,7 +58,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "sitemapSwitcherAuto": "on",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcher": "on"
   },
